@@ -1,2 +1,3 @@
 This is the readme file for the tutorial repository.
-First commit has been made
+Second line has been added.
+Third line has been added too.
